@@ -11,7 +11,7 @@ A Colorado Board of Elections employee has given me the following taks to comple
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.8.8, Visual Studio Code
+- Software: Python 3.8.8, Visual Studio Code 1.57.1
 
 ## Summary
 The analysis of the election show that:
@@ -28,5 +28,10 @@ The analysis of the election show that:
     - Diana DeGette received 78% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
-
+After helping Seth and Tom submit the election audit results, the election commission has now requested some additional data to complete the audit:
+    1. The voter turnout for each county.
+    2. The percentage of votes from each county out of the total count.
+    3. The county with the highest turnout. 
 ## Challenge Summary
+
+<img width="297" alt="Screen Shot 2021-07-03 at 11 59 17 AM" src="https://user-images.githubusercontent.com/84995704/124361733-37d3d780-dbf6-11eb-9d15-2ede3d7d7fd5.png">
