@@ -27,6 +27,8 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette received 78% of the vote and 272,892 number of votes.
 
+<img width="297" alt="Screen Shot 2021-07-03 at 11 59 17 AM" src="https://user-images.githubusercontent.com/84995704/124361733-37d3d780-dbf6-11eb-9d15-2ede3d7d7fd5.png">
+
 ## Challenge Overview
 After helping Seth and Tom submit the election audit results, the election commission has now requested some additional data to complete the audit:
     1. The voter turnout for each county.
@@ -34,4 +36,4 @@ After helping Seth and Tom submit the election audit results, the election commi
     3. The county with the highest turnout. 
 ## Challenge Summary
 
-<img width="297" alt="Screen Shot 2021-07-03 at 11 59 17 AM" src="https://user-images.githubusercontent.com/84995704/124361733-37d3d780-dbf6-11eb-9d15-2ede3d7d7fd5.png">
+
