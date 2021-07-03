@@ -35,5 +35,5 @@ After helping Seth and Tom submit the election audit results, the election commi
     2. The percentage of votes from each county out of the total count.
     3. The county with the highest turnout. 
 ## Challenge Summary
-
+This script can be used--with some modifications-- for any election. If the results are in a similar CSV format, then, the script will be able to maintain the assignment of dictionaries based on candidates and counties to analyze and showcase the results. This script will work with more scripts and counties should the commission want the audit to be more encompassing. This script can be easily modified to be used with congressional district voting or specific seats on respective county boards simply by adding a new column (or series) and using the script to pull from a dictionary of variables. The script could also be modified to include election day polling, that is, including a series of responses that voters can choose as it relates to proposed policy issues. Again, more series can be adding so long as there is a control variable of pre-determined responses from which to choose. 
 
